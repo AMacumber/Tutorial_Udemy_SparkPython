@@ -7,3 +7,7 @@ Hands on experience using Spark and PySpark to solve machine learning problems.
   * Create a Spark connection; read data, format, count, print results
 * Exercise 2 - Average Friends By Age
   * Store and transform data organized as tuples
+* Exercise 3 - Filter Minimum and Maximum Temperature
+  * Filter
+* Exercise 4 - Word Counts
+  * Use flatMap to separate words from text and count frequency
