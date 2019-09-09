@@ -13,3 +13,7 @@ Hands on experience using Spark and PySpark to solve machine learning problems.
   * 4.1: Use flatMap to separate words from text and count frequency
   * 4.2: Define a function that converts to unicode, formats lower case
   * 4.3: Sort the results
+
+## Assignments
+* Assignment 1 - Find the total spent by each customer
+* Assignment 2 - Sort Assignment 1
