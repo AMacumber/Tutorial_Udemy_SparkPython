@@ -16,6 +16,13 @@ Hands on experience using Spark and PySpark to solve machine learning problems.
 * Exercise 5 - Popular Movies
   * 4.1: Use map, reduce and sort by key to return the most frequent movie ID
   * 4.2: Use a broadcast object to return the movie name in place of the movieID
+* Exercise 6 - Most Popular Super Hero
+  * Store name values to key-value Rdd instead of broadcast
+* Exercise 7 - Super Hero Degress of Seperation
+  * Use breadth-first-search
+* Exercise 8 - Movie Similarity
+  * 8.1: Use Cosine Similarity, score threshold of 0.97 and co-occurence threshold 50
+  * 8.2: 8.1 + Discard bad movies (median ratings <= 2)
 
 ## Assignments
 * Assignment 1 - Find the total spent by each customer
